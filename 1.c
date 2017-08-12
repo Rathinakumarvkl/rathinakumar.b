@@ -2,10 +2,10 @@
 
 int main()
 {
-	int i;
+	int j;
 	cout<<"Enter any non-zero Number : ";
-	cin>>i;
-	(i>0)?cout<<"Number is positive":cout<<"Number is negative";
+	cin>>j;
+	(j>0)?cout<<"Number is positive":cout<<"Number is negative";
 	
 	
 	return 0;
